@@ -13,3 +13,4 @@ title: My Goals as a Programmer for 2013
 * Learn Scala
 * Learn Clojure
 * Improve Design/CSS Chops
+* Spend more time in tech-heavy cities (and possibly move to one...)
