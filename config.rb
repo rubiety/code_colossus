@@ -112,3 +112,11 @@ activate :deploy do |deploy|
   deploy.path = "/var/www/codecolossus.com/current"
 end
 
+###
+# Blog
+###
+
+activate :blog do |blog|
+  
+end
+
