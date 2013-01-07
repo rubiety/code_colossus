@@ -12,7 +12,7 @@
     -# Pull in the page title
     %title= @title
   
-    %meta{:name => "description", :content => "Code Colossus: Pursuing Software Craftsmanship..."}
+    %meta{:name => "description", :content => "Code Colossus: Ben Hughes on Software"}
     %meta{:name => "author", :content => "Ben Hughes"}
   
     %meta{:name => "viewport", :content => "width=device-width"}
@@ -29,10 +29,33 @@
     .container
       %header
         %h1 Code Colossus
-        %h2 Pursuing Software Craftsmanship...
+        %h2 Ben Hughes on Software
         
       #main-content{:role => "main"}
         = yield
+
+        %aside
+          %h2 Recent Articles
+          %ol
+            - blog.articles[0...10].each do |article|
+              %li
+                %a{:href => article.url}= article.title
+                %span= article.date.strftime('%b %e')
+          %h2 Tags
+          %ol
+            - blog.tags.each do |tag, articles|
+              %li
+                %a{:href => tag_path(tag)}
+                  = tag
+                  (#{articles.size})
+          %h2 By Year
+          %ol
+            - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
+              %li
+                %a{:href => blog_year_path(year)}
+                  = year
+                  (#{articles.size})
+
 
       %footer
         %p &copy; #{copyright_years(2011)} Rubidiom, LLC
