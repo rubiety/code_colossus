@@ -118,6 +118,7 @@ end
 
 activate :blog do |blog|
   blog.prefix = "blog"
+  blog.layout = "article"
   blog.tag_template = "tag.html"
   blog.calendar_template = "calendar.html"
 end

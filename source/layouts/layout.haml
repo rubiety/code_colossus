@@ -27,38 +27,34 @@
       %p.chromeframe 
         You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.
     .container
-      %header
-        %h1 Code Colossus
-        %h2 Ben Hughes on Software
+      .left-col
+        .intrude-less
+          %header#header.inner
+            .profilepic
+              = image_tag "mug.jpg"
+            %h1= link_to "Code Colossus", "/"
+            %h3 Ben Hughes on Software
+            %section.aboutme
+              Ruby developer, travel hacker & mileage runner, amateur jazz pianist, penguin aficionado, economics nerd.
+            %nav#sub-nav
+              .social
+                %a.twitter{:href => "http://twitter.com/rubiety", :title => "Twitter"} Twitter
+                %a.github{:href => "https://github.com/rubiety", :title => "GitHub"} GitHub
+                %a.rss{:href => "/feed.xml", :title => "RSS"} RSS
+            %nav#main-nav
+              %ul
+                %li= link_to "Personal Home Page", "http://benhughes.name/"
+                %li= link_to "Positive Externality", "http://www.positiveexternality.com/"
+                %li= link_to "Flight Leverage", "http://www.flightleverage.com"
         
-      #main-content{:role => "main"}
-        = yield
+      .mid-col
+        .mid-col-container
+          #content.inner{:role => "main"}
+            = yield
+        
+        %footer
+          %p &copy; #{copyright_years(2011)} Rubidiom, LLC
 
-        %aside
-          %h2 Recent Articles
-          %ol
-            - blog.articles[0...10].each do |article|
-              %li
-                %a{:href => article.url}= article.title
-                %span= article.date.strftime('%b %e')
-          %h2 Tags
-          %ol
-            - blog.tags.each do |tag, articles|
-              %li
-                %a{:href => tag_path(tag)}
-                  = tag
-                  (#{articles.size})
-          %h2 By Year
-          %ol
-            - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
-              %li
-                %a{:href => blog_year_path(year)}
-                  = year
-                  (#{articles.size})
-
-
-      %footer
-        %p &copy; #{copyright_years(2011)} Rubidiom, LLC
         
     = javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"
     :javascript

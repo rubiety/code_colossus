@@ -1,0 +1,12 @@
+- @title = "#{current_page.title} | Code Colossus"
+
+- wrap_layout :layout do
+  %article.post
+    .meta
+      .date= current_page.date.strftime('%b %e')
+      .tags= current_page.tags.join(", ")
+    %h1.title= link_to current_page.title, current_page
+    .entry-content
+      = current_page.body
+  .share
+  #comment
