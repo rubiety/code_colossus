@@ -15,7 +15,8 @@
       %a.addthis_button_pinterest_pinit
       %a.addthis_counter.addthis_pill_style
     :javascript
-      var addthis_config = {"data_track_addressbar":true};%script{:src => "//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50f375741ce28b08", :type => "text/javascript"}
+      var addthis_config = {"data_track_addressbar":true};
+    %script{:src => "//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50f375741ce28b08", :type => "text/javascript"}
 
   #comment
     #disqus_thread
@@ -29,9 +30,6 @@
           dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
           (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
       })();
-        %noscript
-      Please enable JavaScript to view the
-      %a{:href => "http://disqus.com/?ref_noscript"} comments powered by Disqus.
     %a.dsq-brlink{:href => "http://disqus.com"}
       comments powered by
       %span.logo-disqus Disqus
