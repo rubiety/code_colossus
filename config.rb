@@ -30,6 +30,12 @@ require 'susy'
 # activate :automatic_image_sizes
 
 ###
+# Markdown
+###
+
+set :markdown_engine, :rdiscount
+
+###
 # Page command
 ###
 
