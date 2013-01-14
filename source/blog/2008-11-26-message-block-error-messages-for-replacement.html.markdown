@@ -3,7 +3,7 @@ title: "message_block: a error_messages_for replacement for flash message and mo
 tags: Rails Plugins, Rails Techniques
 ---
 
-![Message Block Example](message-block-error-messages-for-replacement/message_block_example1.png)
+![Message Block Example](/blog/2008/11/26/message-block-error-messages-for-replacement/message_block_example1.png)
 
 One of the most common needs in any application I build is to have some abstract way of handling messages to end users.  Sometimes I'll want to show a confirmation message or a warning.  Other times I'll want to show a confirmation message but also show ActiveRecord validations.  While the error_messages_for helper in Rails works fairly well for showing ActiveRecord validation issues, I wanted a unified approach to handling this and flash messaging with multiple flash types in one package.
 
