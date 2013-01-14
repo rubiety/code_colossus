@@ -59,8 +59,8 @@ Imagine you have a form for entering a user and a comment:
           </ul>
         </div>
 
-    Which will by default leave you with this look:
+Which will by default leave you with this look:
 
-    ![Message Block Example](message-block-error-messages-for-replacement/message_block_example.png)
+![Message Block Example](message-block-error-messages-for-replacement/message_block_example.png)
 
-    ## [message_block on GitHub](http://github.com/rubiety/message_block) ##
+## [message_block on GitHub](http://github.com/rubiety/message_block) ##
