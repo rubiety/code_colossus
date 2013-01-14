@@ -26,7 +26,7 @@ I used to work fairly actively on my own open source projects, but beyond the oc
 
 #### Become a Master at vim
 
-My editing environment is MacVim (using tabs, with splits within tabs for implementation/test code), and although I can get around in vim quite fluently, there are a lot of advanced vim features I want to learn. Seeing Ben Ornstein's talk at RubyConf and his vim fluency has inspired me to learn more.
+My editing environment is MacVim (using tabs, with splits within tabs for implementation/test code), and although I can get around in vim quite fluently, there are a lot of advanced vim features I want to learn. Seeing Ben Orenstein's talk at RubyConf and his vim fluency has inspired me to learn more.
 
 #### Become Comfortable with SublimeText2
 
