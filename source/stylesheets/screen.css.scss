@@ -4,16 +4,44 @@
 
 @import "compass";
 
-@import "base";
-@import "parts";
-@import "plugins";
+// Settings
+$greyshade: #333;
+$max-width: 1000px;
 
-@import "settings";
-@import "greyshade";
+$color-background: #eee;
+$color-main: #258fb8;
+$color-gray01: #666;
+$color-gray02: #999;
+$color-gray03: #ccc;
+$color-gray04: #ddd;
+$color-gray05: #fff;
 
-// @import "custom/colors";
-// @import "greyshade";
+$font-default: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace;
 
-// @import "custom/fonts";
-// @import "custom/layout";
-// @import "custom/styles";
+$font-icon: FontAwesome;
+$font-icon-path: "/font/fontawesome-webfont";
+
+// Core
+@import "font";
+@import "layout";
+@import "typography";
+@import "utilities";
+
+// Parts
+@import "parts/header";
+@import "parts/index";
+@import "parts/article";
+@import "parts/post";
+@import "parts/archive";
+@import "parts/comment";
+@import "parts/footer";
+@import "parts/syntax";
+@import "parts/twitter";
+
+// Vendored Plugins
+@import "plugins/fancybox";
+
+// Main Styes
+@import "main";
+
