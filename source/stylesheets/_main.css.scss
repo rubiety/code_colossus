@@ -65,7 +65,7 @@ body {
   }
   .mid-col {
     float: right;
-    width: 77%;
+    width: 80%;
     background: whitesmoke;
     .mid-col-container {
       padding: 0px 70px 0px 40px;
@@ -150,7 +150,7 @@ body {
     opacity: 1;
   }
   .left-col {
-    width: 23%;
+    width: 20%;
     position: fixed;
     opacity: 1;
     height: 100%;
@@ -217,7 +217,7 @@ body {
       margin: 0 0;
   }
 }
-@media screen and (max-width: 700px){
+@media screen and (max-width: 1000px){
   .container {
     .credit-box {
       display: none;
@@ -227,22 +227,30 @@ body {
       width: 100%;
       opacity: 1;
       .intrude-less {
-        margin: auto auto;
+        margin: 10px;
       }
       #header {
-        padding: 40px 0px;
-        text-align: center;
-        #sub-nav{
+        padding: 10px 0px;
+        text-align: left;
+        .profilepic {
+          float: left;
+          margin-right: 15px;
+          img { width: 120px; }
+        }
+        #sub-nav {
           display: block;
+          position: absolute;
+          margin-top: -20px;
         }
         #main-nav {
-            ul {  
-              display: block;
-              li {
-                display: inline;
-                margin-right: 10px;
-              }
+          ul {  
+            display: block;
+            margin-left: 150px;
+            li {
+              display: inline;
+              margin-right: 10px;
             }
+          }
         }
       }
     }
@@ -253,6 +261,7 @@ body {
         padding: 15px 15px;
         #content {
           article {
+            padding: 10px 0;
             .meta {
               float: none;
             }
