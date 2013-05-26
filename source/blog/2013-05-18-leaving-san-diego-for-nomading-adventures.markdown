@@ -14,3 +14,4 @@ While embarking on this new adventure is exciting, it's also scary. Settling int
 
 I'll deeply miss my friends in San Diego, but know that I'll be back often and this isn't goodbye for long. Moving to San Diego over two years ago was one of the best decisions I made, and I was scared then - but I went for it. I think now's the time in my life to get out there and see the world, and I'm not turning back.
 
+If you want to follow my travels, I'll be photo blogging at [http://travel.benhughes.name](http://travel.benhughes.name).
