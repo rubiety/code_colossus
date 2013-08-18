@@ -110,13 +110,16 @@ end
 # Deploy
 ###
 
-activate :deploy do |deploy|
-  deploy.method = :rsync
-  deploy.user = "apps"
-  deploy.host = "codecolossus.com"
-  deploy.port = 2234
-  deploy.path = "/var/www/codecolossus.com/current"
+YAML.load_file("config/deploy.yml").tap do |config|
+  activate :deploy do |deploy|
+    deploy.method = :rsync
+    deploy.user = config["user"]
+    deploy.host = config["host"]
+    deploy.port = config["port"]
+    deploy.path = config["path"]
+  end
 end
+
 
 ###
 # Blog
