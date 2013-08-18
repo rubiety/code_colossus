@@ -115,7 +115,7 @@ YAML.load_file("config/deploy.yml").tap do |config|
     deploy.method = :rsync
     deploy.user = config["user"]
     deploy.host = config["host"]
-    deploy.port = config["port"]
+    deploy.port = config["port"] || 22
     deploy.path = config["path"]
   end
 end
