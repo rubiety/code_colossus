@@ -19,7 +19,7 @@
 
     -# Place favicon.ico and apple-touch-icon.png in the root directory
 
-    = stylesheet_link_tag "screen"
+    = stylesheet_link_tag "application"
     = javascript_include_tag "libs/modernizr-2.6.1.min"
 
   %body{:class => "#{@bodyclass}"}
@@ -30,12 +30,10 @@
       .left-col
         .intrude-less
           %header#header.inner
-            .profilepic
-              = image_tag "mug.png", :alt => "Ben Hughes"
             %h1= link_to "Code Colossus", "/"
             %h3 Ben Hughes on Software
-            %section.aboutme
-              Ruby developer, travel hacker, economics nerd, amateur jazz pianist, penguin afficionado.
+            .profilepic
+              = image_tag "mug.png", :alt => "Ben Hughes"
             %nav#sub-nav
               .social
                 %a.twitter{:href => "http://twitter.com/rubiety", :title => "Twitter"} Twitter
@@ -43,9 +41,9 @@
                 %a.rss{:href => "/feed.xml", :title => "RSS"} RSS
             %nav#main-nav
               %ul
-                %li= link_to "&rarr; Personal Home Page", "http://benhughes.name/"
-                %li= link_to "&rarr; Positive Externality", "http://www.positiveexternality.com/"
-                %li= link_to "&rarr; Flight Leverage", "http://www.flightleverage.com"
+                %li= link_to "&rarr; About Ben Hughes", "http://benhughes.name/"
+                %li= link_to "&rarr; Positive Externality: Economics", "http://www.positiveexternality.com/"
+                %li= link_to "&rarr; Flight Leverage: Travel Hacking", "http://www.flightleverage.com"
         
       .mid-col
         .mid-col-container
