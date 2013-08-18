@@ -42,6 +42,7 @@ body {
       a { color: #EFEFEF; text-shadow: 0 1px #333; }
       a:hover { color: $greyshade; }
       h1 { font-size: 30px; float: none; }
+      h3 { color: $sidebar-subheader-color; }
 
       .subtitle { color: #999; font-style: italic; }
       .profilepic {
