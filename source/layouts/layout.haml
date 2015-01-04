@@ -33,7 +33,9 @@
             %h1= link_to "Code Colossus", "/"
             %h3 Ben Hughes on Software
             .profilepic
-              = image_tag "mug.png", :alt => "Ben Hughes"
+              %a{:href => "http://benhughes.name"}
+                = image_tag("http://www.gravatar.com/avatar/92772ff5353c89d9bd10f8e334161e16.jpg?s=160", :alt => "Ben Hughes")
+
             %nav#sub-nav
               .social
                 %a.twitter{:href => "http://twitter.com/rubiety", :title => "Twitter"} Twitter
