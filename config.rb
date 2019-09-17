@@ -18,8 +18,6 @@ require 'susy'
 # Haml
 ###
 
-set :haml, { ugly: true }
-
 # CodeRay syntax highlighting in Haml
 # First: gem install haml-coderay
 # require 'haml-coderay'
@@ -106,20 +104,6 @@ configure :build do
   
   # Or use a different image path
   # set :http_path, "/Content/images/"
-end
-
-###
-# Deploy
-###
-
-YAML.load_file("config/deploy.yml").tap do |config|
-  activate :deploy do |deploy|
-    deploy.method = :rsync
-    deploy.user = config["user"]
-    deploy.host = config["host"]
-    deploy.port = config["port"] || 22
-    deploy.path = config["path"]
-  end
 end
 
 
