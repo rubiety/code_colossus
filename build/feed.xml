@@ -22,19 +22,18 @@
     <content type="html">&lt;p&gt;For the past four months I've been a digital nomad, traveling and working remotely from wherever I am. As a programmer, I'm grateful to do work that largely doesn't require a physical presence and for which bits traveling wirelessly earn me an income. Though most folks claim it's an incredible time to be a programmer from a career perspective, I value the freedom/flexibility aspect of being a programmer in 2013 far more. I set out to take advantage of that freedom at the end of May, and haven't looked back.&lt;/p&gt;
 
 &lt;div class="image-container"&gt;
-  &lt;img src="/blog/2013/09/18/coding-on-the-road/work_austin.jpg" /&gt;&lt;/a&gt;
-  &lt;img src="/blog/2013/09/18/coding-on-the-road/work_mission.jpg" /&gt;&lt;/a&gt;
-  &lt;img src="/blog/2013/09/18/coding-on-the-road/work_montana.jpg" /&gt;&lt;/a&gt;
+  &lt;img src="/blog/2013/09/18/coding-on-the-road/work_austin.jpg" /&gt;&amp;lt;/a&amp;gt;
+  &lt;img src="/blog/2013/09/18/coding-on-the-road/work_mission.jpg" /&gt;&amp;lt;/a&amp;gt;
+  &lt;img src="/blog/2013/09/18/coding-on-the-road/work_montana.jpg" /&gt;&amp;lt;/a&amp;gt;
 &lt;/div&gt;
-
 
 &lt;p&gt;But, it's not all fun and games. Working on the road and in airports/airplanes comes with a host of challenges compared to your daily routine at home. Here's some issues I've run into and tips on how to be productive working while traveling:&lt;/p&gt;
 
-&lt;h2&gt;Choosing the Right Coffee Shop&lt;/h2&gt;
+&lt;h2 id="choosing-the-right-coffee-shop"&gt;Choosing the Right Coffee Shop&lt;/h2&gt;
 
 &lt;p&gt;When you're in a new place, it can be hard to find a venue in which to camp out. I've been using mostly Foursquare Explore to search for coffee shops, which typically has lots of pictures from previous travelers. For me the pictures give the best indication of whether or not it might be work-friendly, and posted tips on the wifi also help. I aim for a local independent coffee shop with a medium-noise ambiance and some charm. Failing that, Starbucks is actually a great office-of-last-resort: they are virtually everywhere, have open tables available for camping, and have at least usable wifi most of the time.&lt;/p&gt;
 
-&lt;h2&gt;Unreliable Public WiFi&lt;/h2&gt;
+&lt;h2 id="unreliable-public-wifi"&gt;Unreliable Public WiFi&lt;/h2&gt;
 
 &lt;p&gt;As much as I often think we are "living in the future", I'm incredibly frustrated about the poor state of public wifi - whether paid or free. If a business advertises and offers "high-speed wifi with purchase", I think there's a reasonable expectation to have at least consistent latency below 150ms and throughput of 1mbps down. Many places don't even come close to this. It's an information assymmetry problem, because newcomers to a venue see the advertisement for free wifi (product bundling with paid goods) make purchasing decisions with this in mind, and incur a high degree of uncertainty whether it will work out or not. Here's what I do to avoid getting stuck with bad wifi:&lt;/p&gt;
 
@@ -42,19 +41,19 @@
 
 &lt;p&gt;&lt;strong&gt;Always have a back-up LTE tether.&lt;/strong&gt; I can't stress how important and freeing it is to always have a last-resort backup. Pretty much no matter where I am, I can tether to my phone and at least get something done, even if it's bandwidth-limited.&lt;/p&gt;
 
-&lt;h2&gt;Coworking Drop-ins &amp;amp; Day Rates&lt;/h2&gt;
+&lt;h2 id="coworking-drop-ins--day-rates"&gt;Coworking Drop-ins &amp;amp; Day Rates&lt;/h2&gt;
 
 &lt;p&gt;Many coworking spaces will let you drop in for a day, either for free or for a small price. This is a good alternative to public wifi venues like coffee shops, and it increases your likelyhood of meeting new people and getting involved with the local community. The wifi issue above is also rarely an issue in coworking spots.&lt;/p&gt;
 
-&lt;h2&gt;Try to maintain a routine&lt;/h2&gt;
+&lt;h2 id="try-to-maintain-a-routine"&gt;Try to maintain a routine&lt;/h2&gt;
 
 &lt;p&gt;When traveling it's easy to get distracted and want to go do things. Be honest with yourself when your most productive time of the day is. For me it's the morning fueled with coffee, which also happens to be a time I'm least likely want to go out and explore, so this works perfectly. I get in the routine of waking up wherever I am and getting a solid four hours of work done, usually at a coffee shop. With this minimal routine, I'm assured to have a productive block of four hours each day. I then give myself more flexibility later in the day when I want to put more hours in, depending on what I want to explore or alternative uses of my time that evening.&lt;/p&gt;
 
-&lt;h2&gt;Make travel plans during leisure time only&lt;/h2&gt;
+&lt;h2 id="make-travel-plans-during-leisure-time-only"&gt;Make travel plans during leisure time only&lt;/h2&gt;
 
 &lt;p&gt;Traveling nonstop means you'll spend a fair amount of time booking flights, finding hostels/hotels, and forming itineraries. It's easy to get drawn deeply into this and lose track of time. When you sit down to work, commit to work only - save travel planning for later at night or whenever your mind is less productive.&lt;/p&gt;
 
-&lt;h2&gt;Quiet Places for a Phone Call&lt;/h2&gt;
+&lt;h2 id="quiet-places-for-a-phone-call"&gt;Quiet Places for a Phone Call&lt;/h2&gt;
 
 &lt;p&gt;Public places are noisy, and it can be difficult to find a place to just have a distraction-free phone call.&lt;/p&gt;
 
@@ -68,7 +67,7 @@
 
 &lt;p&gt;&lt;strong&gt;Call from your car.&lt;/strong&gt; A few times while working at a coffee shop I decided to just return to my car to hold a call. With tethering you can still be on the internet, at least temporarily.&lt;/p&gt;
 
-&lt;h2&gt;Working on Airplanes&lt;/h2&gt;
+&lt;h2 id="working-on-airplanes"&gt;Working on Airplanes&lt;/h2&gt;
 
 &lt;p&gt;I love working on airplanes - I find them focus-inducing and lacking in any sort of distraction. The constant hum substitutes well for the coffee-shop background noise I crave.&lt;/p&gt;
 
@@ -78,7 +77,7 @@
 
 &lt;p&gt;&lt;strong&gt;Consider flying airlines with wifi.&lt;/strong&gt; Not all of them have it, but many do, and if you're going to be productive on a 6 hour flight, paying $20 really isn't so bad (or, consider a monthly subscription if you fly a lot). That being said, my most productive sessions are usually on planes &lt;strong&gt;without&lt;/strong&gt; wifi (no distractions!), so do realize this can be a double-edged sword.&lt;/p&gt;
 
-&lt;h2&gt;Working in Airports&lt;/h2&gt;
+&lt;h2 id="working-in-airports"&gt;Working in Airports&lt;/h2&gt;
 
 &lt;p&gt;With my mileage-running hobby, I spend a lot of time in airports.&lt;/p&gt;
 
@@ -88,15 +87,14 @@
 
 &lt;p&gt;&lt;strong&gt;Find gates without an upcoming flight.&lt;/strong&gt; Most gates show the next departure. It may be empty now, but if a flight is departing in 90 minutes, it will be busy and crowded. During non-peak hours many gates go unused for hours on end - find one.&lt;/p&gt;
 
-&lt;h2&gt;Don't overwork&lt;/h2&gt;
+&lt;h2 id="dont-overwork"&gt;Don't overwork&lt;/h2&gt;
 
 &lt;p&gt;The worst thing you can do is overwork yourself while traveling, because you're even more vulnerable to burn-out. Being active and busy with travel does not work well if you're having to put in 10 hour stressful days. Working while traveling works best doing 6-7 hours a day in productive spurts, mixed with some exploration. Always keep work-life balance in mind, and you'll find it's possible to work and travel successfully.&lt;/p&gt;
 
 &lt;div class="image-container"&gt;
-  &lt;img src="/blog/2013/09/18/coding-on-the-road/work_plane.jpg" /&gt;&lt;/a&gt;
-  &lt;img src="/blog/2013/09/18/coding-on-the-road/work_tennis.jpg" /&gt;&lt;/a&gt;
+  &lt;img src="/blog/2013/09/18/coding-on-the-road/work_plane.jpg" /&gt;&amp;lt;/a&amp;gt;
+  &lt;img src="/blog/2013/09/18/coding-on-the-road/work_tennis.jpg" /&gt;&amp;lt;/a&amp;gt;
 &lt;/div&gt;
-
 </content>
   </entry>
   <entry>
@@ -136,57 +134,58 @@
     <summary type="html">&lt;p&gt;Though ultimately it's a date no different from any other - and entirely arbitrary - New Years Eve has always been a great time for me to reflect on what I'm doing with my life, and re-calibrate my goals. Though I have other "life goals" outside the...&lt;/p&gt;</summary>
     <content type="html">&lt;p&gt;Though ultimately it's a date no different from any other - and entirely arbitrary - New Years Eve has always been a great time for me to reflect on what I'm doing with my life, and re-calibrate my goals. Though I have other "life goals" outside the realm of programming, here's what I want to focus on in 2013 with respect to programming:&lt;/p&gt;
 
-&lt;h4&gt;Blog More&lt;/h4&gt;
+&lt;h4 id="blog-more"&gt;Blog More&lt;/h4&gt;
 
 &lt;p&gt;This blog has been mostly dead for the past few years, which is deplorable. I find blogging, and the organization of thoughts that go with it, a great activity for improving mental clarity.&lt;/p&gt;
 
-&lt;h4&gt;Work on a travel-related application I'm passionate about&lt;/h4&gt;
+&lt;h4 id="work-on-a-travel-related-application-im-passionate-about"&gt;Work on a travel-related application I'm passionate about&lt;/h4&gt;
 
 &lt;p&gt;My passions changes frequently, but at the moment I'm really passionate about travel. I'd really love to be working on an awesome travel-related web application. Loving what you're working on is important for career hapiness!&lt;/p&gt;
 
-&lt;h4&gt;Cowork / Pair with Awesome Developers&lt;/h4&gt;
+&lt;h4 id="cowork--pair-with-awesome-developers"&gt;Cowork / Pair with Awesome Developers&lt;/h4&gt;
 
 &lt;p&gt;Working remotely in San Diego leaves me lonely sometimes. I need to get out and do more coworking and pairing with other developers who I can learn from and who will challenge me.&lt;/p&gt;
 
-&lt;h4&gt;Finish Jazzity, my long-delayed knowledge engine for jazz theory&lt;/h4&gt;
+&lt;h4 id="finish-jazzity-my-long-delayed-knowledge-engine-for-jazz-theory"&gt;Finish Jazzity, my long-delayed knowledge engine for jazz theory&lt;/h4&gt;
 
 &lt;p&gt;I started playing around with jazz theory relationships in code five years ago, starting out with a simple ruby library with object relationships. Since then I've been building out a more fleshed out web application that lets users query and interact with jazz theory through a web brwoser, not unlike what WolframAlpha is trying to do for generalized knowledge. The recent availability of VexFlow, an awesome HTML5 SVG music staff notation engraving library is really opening up the possibilties to build something awesome. In 2013 I want to finish and launch Jazzity.&lt;/p&gt;
 
-&lt;h4&gt;Contribute more actively to open source&lt;/h4&gt;
+&lt;h4 id="contribute-more-actively-to-open-source"&gt;Contribute more actively to open source&lt;/h4&gt;
 
 &lt;p&gt;I used to work fairly actively on my own open source projects, but beyond the occassional collaboration to the SDRuby.org, rarely have I truly collaborated with others on an important open source project. I want to find some projects I use heavily and contribute back!&lt;/p&gt;
 
-&lt;h4&gt;Become a Master at vim&lt;/h4&gt;
+&lt;h4 id="become-a-master-at-vim"&gt;Become a Master at vim&lt;/h4&gt;
 
 &lt;p&gt;My editing environment is MacVim (using tabs, with splits within tabs for implementation/test code), and although I can get around in vim quite fluently, there are a lot of advanced vim features I want to learn. Seeing Ben Orenstein's talk at RubyConf and his vim fluency has inspired me to learn more.&lt;/p&gt;
 
-&lt;h4&gt;Become Comfortable with SublimeText2&lt;/h4&gt;
+&lt;h4 id="become-comfortable-with-sublimetext2"&gt;Become Comfortable with SublimeText2&lt;/h4&gt;
 
 &lt;p&gt;Though I'm solidly a vim user, I've heard great things about SublimeText. I loved TextMate "back in the day", and want to give SublimeText a fair shake.&lt;/p&gt;
 
-&lt;h4&gt;Learn D3.js and Build Something Awesome with It&lt;/h4&gt;
+&lt;h4 id="learn-d3js-and-build-something-awesome-with-it"&gt;Learn D3.js and Build Something Awesome with It&lt;/h4&gt;
 
 &lt;p&gt;Data and statistics have always interested me, and D3.js is a really unique approach on working with data in JavaScript. I've seem some awesome stuff built with it, and I'd like to learn D3 better and apply it to something I'm passionate about (probably something in the realm of economics).&lt;/p&gt;
 
-&lt;h4&gt;Learn RubyMotion and Build a simple iOS Application&lt;/h4&gt;
+&lt;h4 id="learn-rubymotion-and-build-a-simple-ios-application"&gt;Learn RubyMotion and Build a simple iOS Application&lt;/h4&gt;
 
 &lt;p&gt;I've really missed the mobile native app revolution entirely, and it's time to catch up. I've heard good things about RubyMotion, so starting there (after learning basic Objective C for some foundation, of coures) sounds like a great way to dive in. My goal is to get an application (however simple and useless) approved in the Apple app store.&lt;/p&gt;
 
-&lt;h4&gt;Learn Scala &amp;amp; Clojure&lt;/h4&gt;
+&lt;h4 id="learn-scala--clojure"&gt;Learn Scala &amp;amp; Clojure&lt;/h4&gt;
 
 &lt;p&gt;Learning new programming languages is one of the best ways to keep yourself current and push the limits of your knowledge. Learning Ruby was a real paradigm shift for me (coming from a PHP/Java background), and the programming/concurrency models of more functional languages intrigues me.&lt;/p&gt;
 
-&lt;h4&gt;Improve Design/CSS Chops&lt;/h4&gt;
+&lt;h4 id="improve-designcss-chops"&gt;Improve Design/CSS Chops&lt;/h4&gt;
 
 &lt;p&gt;Since I'm working on a few personal applications (like Jazzity), I really should be better at front-end design than I am. I actually enjoy crafting good HTML and CSS, but having a good design concept to begin with is where I struggle. I'd like to try to change that, while at the same time accepting that I am a focused back-end developer with limited creative juices for design.&lt;/p&gt;
 
-&lt;h4&gt;Spend more time in tech-heavy cities (and possibly move to one...)&lt;/h4&gt;
+&lt;h4 id="spend-more-time-in-tech-heavy-cities-and-possibly-move-to-one"&gt;Spend more time in tech-heavy cities (and possibly move to one…)&lt;/h4&gt;
 
 &lt;p&gt;I've been extremely happy with my move to San Diego, but I think it's time to explore cities with a larger tech scene. In 2013 I'd like to spend a lot more time in cities like San Francisco, Portland, Seattle, Chicago, Austin, Boulder, and New York - and possibly move to one!&lt;/p&gt;
 
-&lt;h4&gt;Attend 2-4 Regional Conferences, and One International Conference&lt;/h4&gt;
+&lt;h4 id="attend-2-4-regional-conferences-and-one-international-conference"&gt;Attend 2-4 Regional Conferences, and One International Conference&lt;/h4&gt;
 
 &lt;p&gt;Thus far I have only ever attended large Ruby conferences, yet I hear from so many people that the regional conferences are the best (and the most affordable for someone who pays out-of-pocket!). Especially since no one has to pull my leg to board an airplane, I'd like to travel to 2-4 regional conferences and one conference outside the United States.&lt;/p&gt;
+
 </content>
   </entry>
   <entry>
@@ -226,7 +225,7 @@ form_for [:admin, @category, @article] do |f|
 end
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;h2&gt;Problem&lt;/h2&gt;
+&lt;h2 id="problem"&gt;Problem&lt;/h2&gt;
 
 &lt;p&gt;One problem I've run into with some frequency, however, is using this polymorphic path approach when the class name of the ActiveRecord model does not quite correspond directly with the resource name. This occurs most frequently when you want a little more context in your model naming which may not be necessary in routes. For example, lets look a domain model with customers having many customer locations:&lt;/p&gt;
 
@@ -258,7 +257,7 @@ end
 
 &lt;p&gt;This of course works but isn't exactly ideal.&lt;/p&gt;
 
-&lt;h2&gt;Solution&lt;/h2&gt;
+&lt;h2 id="solution"&gt;Solution&lt;/h2&gt;
 
 &lt;p&gt;While it might look like it's using the class name to construct the url helper method name, it's in fact using "model_name" instead (which defaults to the class name). But, this can be overridden!&lt;/p&gt;
 
@@ -295,7 +294,7 @@ end
 
 &lt;p&gt;Though all of the above examples are for ActiveModel/ActiveRecord 3.0 or higher, the same technique will work in Rails 2.3 by simply using "ActiveSupport::ModelName" in place of "ActiveModel::Name".&lt;/p&gt;
 
-&lt;h2&gt;Update&lt;/h2&gt;
+&lt;h2 id="update"&gt;Update&lt;/h2&gt;
 
 &lt;p&gt;For Rails 3.1 and higher it seems the solution is now:&lt;/p&gt;
 
@@ -305,6 +304,7 @@ end
   end
 end
 &lt;/code&gt;&lt;/pre&gt;
+
 </content>
   </entry>
   <entry>
@@ -322,10 +322,9 @@ end
 &lt;p&gt;Without validating maximum field lengths at the model level, ActiveRecord will still ship off the full field value as entered in an INSERT query. From there two things might happen, and this depends on the database itself.&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;It might fail the query with an ActiveRecord::StatementInvalid exception. Since this is an exception most developers don't routinely handle, this could cause the entire request to fail. This occurs with SQL Server for sure, and possibly other databases.&lt;/li&gt;
-&lt;li&gt;It might accept the query and simply truncate the result to the field limit. This might sound better than #1, but IMO it's actually worse: now you have an instance where the everything appeared to go along fine, but you might end up with missing data. This is the default behavior with MySQL.&lt;/li&gt;
+  &lt;li&gt;It might fail the query with an ActiveRecord::StatementInvalid exception. Since this is an exception most developers don't routinely handle, this could cause the entire request to fail. This occurs with SQL Server for sure, and possibly other databases.&lt;/li&gt;
+  &lt;li&gt;It might accept the query and simply truncate the result to the field limit. This might sound better than #1, but IMO it's actually worse: now you have an instance where the everything appeared to go along fine, but you might end up with missing data. This is the default behavior with MySQL.&lt;/li&gt;
 &lt;/ol&gt;
-
 
 &lt;p&gt;There's another reason why you should always validate field lengths, and that's to limit the possibilities for a Denial of Service attack. If an attacker knows you aren't validating field length and that whatever they're providing is going straight into an SQL query and being sent to the database, they can craft extremely large requests that might fill up the pipe to the database. Even if the data doesn't actually end up being inserted in full, they've tied up a database connection and - since the regular old "mysql" gem will block for the query result - a Rails process.&lt;/p&gt;
 
@@ -374,25 +373,23 @@ end
 &lt;p&gt;So, after several trips there and much deliberation, I have decided to move to San Diego in November.  There are several reasons why I chose San Diego:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;San Diego is a "big city".  I've always longed to live in a larger city where more opportunities of all kinds await.&lt;/li&gt;
-&lt;li&gt;San Diego weather is outstanding.  Being able to play tennis every single day is a major plus.&lt;/li&gt;
-&lt;li&gt;San Diego has a lot of charm, particularly in the many communities outside of downtown such as North Park and Hillcrest.&lt;/li&gt;
-&lt;li&gt;My parents are moving (for half of the year) to Palm Springs, a city only a couple hours away.&lt;/li&gt;
-&lt;li&gt;Although paling in size to San Francisco, San Diego seems to have a decent tech community (and Ruby community).&lt;/li&gt;
-&lt;li&gt;The entire area seems far more laid back, and people are friendlier.&lt;/li&gt;
-&lt;li&gt;I do actually know a few people out there, which is more than I can see for most west coast cities.&lt;/li&gt;
-&lt;li&gt;I am in the process of shedding almost all of my personal belongings. Before I leave, my property will consist of my keyboard (piano), some clothes, and my laptop.  On November 5th I will begin the drive out to San Diego, stopping in RubyConf in New Orleans along the way.&lt;/li&gt;
+  &lt;li&gt;San Diego is a "big city".  I've always longed to live in a larger city where more opportunities of all kinds await.&lt;/li&gt;
+  &lt;li&gt;San Diego weather is outstanding.  Being able to play tennis every single day is a major plus.&lt;/li&gt;
+  &lt;li&gt;San Diego has a lot of charm, particularly in the many communities outside of downtown such as North Park and Hillcrest.&lt;/li&gt;
+  &lt;li&gt;My parents are moving (for half of the year) to Palm Springs, a city only a couple hours away.&lt;/li&gt;
+  &lt;li&gt;Although paling in size to San Francisco, San Diego seems to have a decent tech community (and Ruby community).&lt;/li&gt;
+  &lt;li&gt;The entire area seems far more laid back, and people are friendlier.&lt;/li&gt;
+  &lt;li&gt;I do actually know a few people out there, which is more than I can see for most west coast cities.&lt;/li&gt;
+  &lt;li&gt;I am in the process of shedding almost all of my personal belongings. Before I leave, my property will consist of my keyboard (piano), some clothes, and my laptop.  On November 5th I will begin the drive out to San Diego, stopping in RubyConf in New Orleans along the way.&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;In conjunction with this move I'll also be doing quite a bit of traveling between now and November 5th when I begin the drive out.  For part of September I'll be taking advantage of the JetBlue All You Can Jet pass to visit Chicago, Boston, Washington DC, Seattle, Portland, San Francisco, Los Angeles, San Diego, and Phoenix, not mainly to tour but to just be in a different city each day and take in the vibe.  During this trip I'll be working more or less like normal.  After that, and since my apartment lease ends September 30th, I'll be spending the month of October "homeless" on an around-the-world trip patched together with cheap flights and hostel stays.  On this trip I'll be starting in San Diego to look for apartments, then flying around the world westward to Vancouver, Hong Kong, Singapore, Bangkok, Dubai, Abu Dhabi, Istanbul, Athens, Barcelona, and finally New York.  I've scheduled a few days in each city and will be trying to see as much as possible.  I'm absolutely stoked about these two trips since I have such a huge passion for travel.  I doubt the low-cost opportunities that have made these trips so extremely cheap and affordable by me will ever come about again.
 During these two trips I'll be blogging along the way and maintaining a travel journal at Everlater:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.everlater.com/benhughes/commuting-to-the-west-coast-on-jetblue-aycj"&gt;JetBlue All-You-Can-Jet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.everlater.com/benhughes/around-the-world-westward"&gt;Around the World Trip&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.everlater.com/benhughes/commuting-to-the-west-coast-on-jetblue-aycj"&gt;JetBlue All-You-Can-Jet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.everlater.com/benhughes/around-the-world-westward"&gt;Around the World Trip&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;During the next 2 months I will be flying 54,000 miles - over twice the circumference of Earth - and driving over 3,000 miles on what is by far the biggest adventure I've ever been on.  This exciting trip will be a great "reset" before I start to rebuild my life in a new city.  Despite this, the move will also be stressful and challenging for many weeks as I get settled into San Diego and start to meet new people, something I don't always have an easy time doing.  Though challenging, I think it will be worth it in the long run.&lt;/p&gt;
 
