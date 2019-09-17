@@ -33,8 +33,6 @@ require 'susy'
 # Markdown
 ###
 
-set :markdown_engine, :rdiscount
-
 ###
 # Page command
 ###
