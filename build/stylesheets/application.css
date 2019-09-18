@@ -1556,86 +1556,85 @@ body {
       margin-top: 10px; }
       /* line 50, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
       .container .left-col #header .profilepic img {
-        width: 160px;
         border: 4px solid #333; }
-    /* line 55, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+    /* line 54, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
     .container .left-col #header .aboutme {
       color: #DDD; }
-    /* line 57, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+    /* line 56, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
     .container .left-col #header #sub-nav {
       float: none;
       position: relative;
       margin-top: 10px; }
-      /* line 61, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+      /* line 60, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
       .container .left-col #header #sub-nav .search {
         float: none; }
-        /* line 63, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+        /* line 62, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
         .container .left-col #header #sub-nav .search .alignright {
           float: none; }
-        /* line 64, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+        /* line 63, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
         .container .left-col #header #sub-nav .search::before {
           left: 10px; }
-      /* line 66, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+      /* line 65, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
       .container .left-col #header #sub-nav .social {
         float: none;
         margin-bottom: 10px; }
-    /* line 69, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+    /* line 68, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
     .container .left-col #header #main-nav {
       float: none;
       margin-top: 10px;
       margin-left: 0px; }
-      /* line 75, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+      /* line 74, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
       .container .left-col #header #main-nav ul li {
         margin-left: 0px;
         display: block; }
-        /* line 78, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+        /* line 77, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
         .container .left-col #header #main-nav ul li a {
           padding: 0px 0px; }
-/* line 86, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+/* line 85, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
 .container .mid-col {
   float: right;
   width: 80%;
   background: whitesmoke; }
-  /* line 91, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+  /* line 90, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
   .container .mid-col .mid-col-container {
     padding: 0px 70px 0px 40px; }
-    /* line 93, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+    /* line 92, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
     .container .mid-col .mid-col-container #content {
       width: 100%; }
-      /* line 95, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+      /* line 94, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
       .container .mid-col .mid-col-container #content article {
         border-top: none; }
-        /* line 97, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+        /* line 96, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
         .container .mid-col .mid-col-container #content article .title {
           margin-left: 0px; }
-        /* line 98, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+        /* line 97, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
         .container .mid-col .mid-col-container #content article .entry-content {
           margin-left: 0px; }
-          /* line 101, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+          /* line 100, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
           .container .mid-col .mid-col-container #content article .entry-content .gist .gist-file .gist-data .line_numbers {
             line-height: inherit; }
-          /* line 102, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+          /* line 101, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
           .container .mid-col .mid-col-container #content article .entry-content .gist .gist-file .gist-data pre {
             line-height: inherit; }
-          /* line 104, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+          /* line 103, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
           .container .mid-col .mid-col-container #content article .entry-content h2 {
             font-size: 1.3em;
             color: #574C4C;
             border-bottom: none; }
-          /* line 109, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+          /* line 108, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
           .container .mid-col .mid-col-container #content article .entry-content h2::before {
             border-bottom: none; }
-          /* line 110, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+          /* line 109, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
           .container .mid-col .mid-col-container #content article .entry-content blockquote {
             border-left: 5px solid #333;
             background: #FCFCFC; }
-          /* line 114, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+          /* line 113, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
           .container .mid-col .mid-col-container #content article .entry-content table {
             line-height: 1.2em; }
-            /* line 116, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+            /* line 115, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
             .container .mid-col .mid-col-container #content article .entry-content table td {
               text-align: left; }
-        /* line 119, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+        /* line 118, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
         .container .mid-col .mid-col-container #content article .meta {
           position: relative;
           float: right;
@@ -1643,104 +1642,104 @@ body {
           color: #555;
           text-align: right;
           width: auto; }
-          /* line 126, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+          /* line 125, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
           .container .mid-col .mid-col-container #content article .meta .date::before {
             color: #555;
             position: relative;
             margin-right: 10px; }
-          /* line 127, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+          /* line 126, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
           .container .mid-col .mid-col-container #content article .meta .tags::before {
             color: #999;
             position: relative;
             margin-right: 10px; }
-        /* line 130, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+        /* line 129, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
         .container .mid-col .mid-col-container #content article h1.title a {
           color: #333;
           -webkit-transition: color 0.3s;
           -moz-transition: color 0.3s;
           -o-transition: color 0.3s;
           transition: color 0.3s; }
-        /* line 131, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+        /* line 130, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
         .container .mid-col .mid-col-container #content article h1.title a:hover {
           color: #333;
           -webkit-transition: color 0.3s;
           -moz-transition: color 0.3s;
           -o-transition: color 0.3s;
           transition: color 0.3s; }
-  /* line 136, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+  /* line 135, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
   .container .mid-col footer {
     width: 100%; }
 
-/* line 144, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+/* line 143, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
 .archives .title {
   font-size: 1.2em; }
-/* line 148, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+/* line 147, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
 .archives article .meta {
   line-height: 1.5em;
   margin-top: 0; }
-  /* line 151, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+  /* line 150, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
   .archives article .meta span::before {
     padding-right: 0; }
 
-/* line 158, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+/* line 157, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
 a {
   color: #333; }
 
-/* line 162, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+/* line 161, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
 a:hover {
   color: #333; }
 
 @media screen and (max-width: 1040px) {
-  /* line 168, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+  /* line 167, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
   body {
     margin: 0 0; } }
 
 @media screen and (max-width: 1000px) {
-  /* line 177, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+  /* line 176, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
   .container .credit-box {
     display: none; }
-  /* line 180, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+  /* line 179, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
   .container .left-col {
     position: relative;
     width: 100%;
     opacity: 1; }
-    /* line 184, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+    /* line 183, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
     .container .left-col .intrude-less {
       margin: 10px; }
-    /* line 187, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+    /* line 186, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
     .container .left-col #header {
       padding: 10px 0px;
       text-align: left; }
-      /* line 190, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+      /* line 189, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
       .container .left-col #header .profilepic {
         float: left;
         margin-right: 15px; }
-        /* line 193, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+        /* line 192, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
         .container .left-col #header .profilepic img {
           width: 120px; }
-      /* line 195, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+      /* line 194, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
       .container .left-col #header #sub-nav {
         display: block;
         position: absolute;
         margin-top: -20px; }
-      /* line 201, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+      /* line 200, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
       .container .left-col #header #main-nav ul {
         display: block;
         margin-left: 150px; }
-        /* line 204, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+        /* line 203, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
         .container .left-col #header #main-nav ul li {
           display: inline;
           margin-right: 10px; }
-  /* line 212, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+  /* line 211, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
   .container .mid-col {
     float: none;
     width: 100%; }
-    /* line 215, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+    /* line 214, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
     .container .mid-col .mid-col-container {
       padding: 15px 15px; }
-      /* line 218, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+      /* line 217, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
       .container .mid-col .mid-col-container #content article {
         padding: 10px 0; }
-        /* line 220, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
+        /* line 219, /Users/bhughes/Workspace/code_colossus/source/stylesheets/_main.css.scss */
         .container .mid-col .mid-col-container #content article .meta {
           float: none; } }
