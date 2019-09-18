@@ -11,20 +11,17 @@
 
     -# Pull in the page title
     %title= @title
-  
+
     %meta{:name => "description", :content => "Code Colossus: Ben Hughes on Software"}
     %meta{:name => "author", :content => "Ben Hughes"}
-  
     %meta{:name => "viewport", :content => "width=device-width"}
-
-    -# Place favicon.ico and apple-touch-icon.png in the root directory
 
     = stylesheet_link_tag "application"
     = javascript_include_tag "libs/modernizr-2.6.1.min"
 
   %body{:class => "#{@bodyclass}"}
     /[if lt IE 7]
-      %p.chromeframe 
+      %p.chromeframe
         You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.
     .container
       .left-col
@@ -45,16 +42,15 @@
               %ul
                 %li= link_to "&rarr; About Ben Hughes", "http://benhughes.name/"
                 %li= link_to "&rarr; Flight Leverage: Travel Hacking", "http://www.flightleverage.com"
-        
+
       .mid-col
         .mid-col-container
           #content.inner{:role => "main"}
             = yield
-        
+
         %footer
           %p &copy; #{copyright_years(2011)} Rubidiom, LLC
 
-        
     = javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"
     :javascript
       window.jQuery || document.write('<script src="/javascripts/libs/jquery-1.8.2.min.js"><\/script>')
